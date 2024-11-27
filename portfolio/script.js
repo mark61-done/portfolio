@@ -18,7 +18,7 @@ menuCloseButton.addEventListener("click", () => asideNavToggler.click());
 Email.send({
   Host : "smtp.elasticemail.com",
   Username : "markoolando558@gmail.com",
-  Password : "ODFCFB28C65CBODC76AOA83B3DOE58DF6313",
+  Password : "",
   To : 'them@website.com',
   From : "markoolando558@gmail.com",
   Subject : "This is the subject",
